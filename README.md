@@ -11,7 +11,7 @@ Customer churn significantly affects profitability in subscription-based industr
 - EDA (Exploratory Data Analysis): Used Seaborn and Matplotlib to identify churn patterns, trends, and correlations
 - Feature Engineering: Transformed categorical features, created new interaction variables, and applied scaling
 - Modeling: Built classification models including Logistic Regression, Random Forest, and XGBoost
-- Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
+- Evaluation Metrics: Accuracy, F2 Score, classification_report, classification_matirx
 - 
 📈 Highlights
 - Visualized churn rate across customer segments
